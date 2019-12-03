@@ -7,6 +7,8 @@ from tkinter import ttk
 from tkinter import messagebox
 from tkMessageBox import *
 
+# Autor Anddrés Felipe Ordóñez 
+# creado en python 2.7
 #Articulo
 #Tasseled cap transformation for assessing hurricane landfall impact on a coastal watershed
 #Autores
